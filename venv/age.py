@@ -1,0 +1,5 @@
+birth_year=input('Birth_year : ')
+print(type(birth_year))
+age=2022-int(birth_year)
+print(age)
+print(type(age))
